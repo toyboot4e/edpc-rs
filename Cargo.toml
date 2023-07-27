@@ -1,0 +1,113 @@
+[package]
+name = "edpc"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+proconio = "0.4.5"
+
+[[bin]]
+name = "a"
+path = "a/main.rs"
+
+[[bin]]
+name = "b"
+path = "b/main.rs"
+
+[[bin]]
+name = "c"
+path = "c/main.rs"
+
+[[bin]]
+name = "d"
+path = "d/main.rs"
+
+[[bin]]
+name = "e"
+path = "e/main.rs"
+
+[[bin]]
+name = "f"
+path = "f/main.rs"
+
+[[bin]]
+name = "g"
+path = "g/main.rs"
+
+[[bin]]
+name = "h"
+path = "h/main.rs"
+
+[[bin]]
+name = "i"
+path = "i/main.rs"
+
+[[bin]]
+name = "j"
+path = "j/main.rs"
+
+[[bin]]
+name = "k"
+path = "k/main.rs"
+
+[[bin]]
+name = "l"
+path = "l/main.rs"
+
+[[bin]]
+name = "m"
+path = "m/main.rs"
+
+[[bin]]
+name = "n"
+path = "n"
+
+[[bin]]
+name = "o"
+path = "o/main.rs"
+
+[[bin]]
+name = "p"
+path = "p/main.rs"
+
+[[bin]]
+name = "q"
+path = "a/main.rs"
+
+[[bin]]
+name = "r"
+path = "r/main.rs"
+
+[[bin]]
+name = "s"
+path = "s/main.rs"
+
+[[bin]]
+name = "t"
+path = "t/main.rs"
+
+[[bin]]
+name = "u"
+path = "u/main.rs"
+
+[[bin]]
+name = "v"
+path = "v/main.rs"
+
+[[bin]]
+name = "w"
+path = "w/main.rs"
+
+[[bin]]
+name = "x"
+path = "x/main.rs"
+
+[[bin]]
+name = "y"
+path = "y/main.rs"
+
+[[bin]]
+name = "z"
+path = "z/main.rs"
