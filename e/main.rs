@@ -1,8 +1,3 @@
-//! ```cargo
-//! [dependencies]
-//! proconio = "0.4.5"
-//! ```
-
 use proconio::input;
 use std::iter;
 
